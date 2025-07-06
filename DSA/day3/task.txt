@@ -1,0 +1,18 @@
+Goal: Master the “window shift” concept for optimization
+📌 Concept: Sliding Window – Fixed Size & Variable Size
+🎯 Pattern: Use when dealing with subarrays or substring problems
+
+🚀 Questions of the Day:
+#	Problem	Pattern	Link
+1️⃣	Maximum Sum Subarray of Size K	Fixed Size SW	https://leetcode.com/problems/maximum-average-subarray-i/
+2️⃣	Longest Substring Without Repeating Characters	Variable Size SW	https://leetcode.com/problems/longest-substring-without-repeating-characters/
+3️⃣	Minimum Size Subarray Sum	SW + Binary Search	https://leetcode.com/problems/minimum-size-subarray-sum/
+
+📝 Tasks:
+
+Solve using dry runs and sliding window visuals
+
+Note time complexity of each
+
+Save in DSA/Day3-SlidingWindow/ folder with comments
+

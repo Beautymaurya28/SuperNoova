@@ -1,0 +1,16 @@
+Folder: /dsa/day4-variable-sliding-window
+📌 Topic: Sliding Window (Variable Size)
+🎯 Goal: Handle dynamic window size with sum, count, freq, etc.
+
+#	Question	Company Tags	Link
+1️⃣	Longest Substring Without Repeating Characters	Google, Amazon	https://leetcode.com/problems/longest-substring-without-repeating-characters/
+2️⃣	Longest Subarray with Sum ≤ K	Meta	https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/
+3️⃣	Minimum Size Subarray Sum	Microsoft	https://leetcode.com/problems/minimum-size-subarray-sum/
+
+📝 Tasks:
+
+Use dry run to understand window expand/shrink
+
+Push code in DSA-Day4.md with comments
+
+Use sliding window template if stuck

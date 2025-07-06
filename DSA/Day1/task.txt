@@ -1,0 +1,17 @@
+Topic: Arrays Kickstart + Prefix Sum
+🚀 Today’s Goal: Build comfort with traversals, prefix-based tricks
+
+#	Question	Company Tags	Link
+1️⃣	Best Time to Buy & Sell Stock	Amazon, Google	https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+2️⃣	Range Sum Query (Prefix Sum)	Facebook	https://leetcode.com/problems/range-sum-query-immutable/
+3️⃣	Product of Array Except Self	Microsoft, Amazon	https://leetcode.com/problems/product-of-array-except-self/
+
+📝 Task:
+
+Watch 10–15 min concept recap if needed (YT / Notes)
+
+Write clean code with comments
+
+Track Qs in DSA-Day1.md
+
+🧠 Pro Tip: Draw array + prefix maps for better intuition!

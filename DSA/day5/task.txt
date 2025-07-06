@@ -1,0 +1,16 @@
+Folder: /dsa/day5-binary-search-basics
+📌 Topic: Intro to Binary Search + Sorted Array Questions
+🎯 Goal: Build deep binary search intuition
+
+#	Question	Company Tags	Link
+1️⃣	Binary Search	Amazon	https://leetcode.com/problems/binary-search/
+2️⃣	Search Insert Position	Apple	https://leetcode.com/problems/search-insert-position/
+3️⃣	First Bad Version	Google, Facebook	https://leetcode.com/problems/first-bad-version/
+
+📝 Tasks:
+
+Dry run binary search on paper
+
+Write iterative + recursive versions
+
+Push code to DSA-Day5.md with notes

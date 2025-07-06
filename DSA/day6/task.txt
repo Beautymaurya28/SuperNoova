@@ -1,0 +1,16 @@
+Mission: Deepen your Binary Search game with real pattern practice.
+
+#	Question	Company Tags	Link
+1️⃣	Find Peak Element	Amazon, Google	https://leetcode.com/problems/find-peak-element/
+2️⃣	Search in Rotated Sorted Array	Microsoft, Amazon	https://leetcode.com/problems/search-in-rotated-sorted-array/
+
+📝 Tasks:
+
+Draw dry run for rotated array (visual patterning)
+
+Use clean function-based solutions
+
+Update your DSA-Day6.md
+
+⚠️ Only 2 Qs, as per new rule!
+
