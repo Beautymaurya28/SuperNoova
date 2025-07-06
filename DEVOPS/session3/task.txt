@@ -1,0 +1,2 @@
+date-2 july thrusday
+task-git-github commits,branchingmerge,conflicts,prs,github projectissue

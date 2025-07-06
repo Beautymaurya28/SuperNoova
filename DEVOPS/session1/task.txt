@@ -1,0 +1,4 @@
+#devops basics
+-sdlc(software development life cycle-structural process of software development)
+devops(bridging the gap between developer and operation)
+date:28th june 2025 saturday

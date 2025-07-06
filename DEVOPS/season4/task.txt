@@ -1,0 +1,5 @@
+## concept of ci/cd
+## github action basic and automation (skills: .yml,workflows,triggers,step run tests on push/pr)
+date: 8th july tuesday
+why should leanrn- https://youtu.be/57dkyTmOCmE?si=vrXWvzVqILQ5oVS9
+complete at least one hour out of 3:30 hour - link- https://youtu.be/NVaP8qtLm6Q?si=8gQbx8RnmINW98Si
