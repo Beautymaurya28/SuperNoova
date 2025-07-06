@@ -1,0 +1,18 @@
+ Folder: /webdev/day4-html-css-ui-2col
+📌 Topic: CSS Flexbox Deep Dive
+🎯 Goal: Build 2-column layout using pure Flexbox
+
+🛠 Mini Project: About Us Page
+
+Layout:
+
+Left: Image
+
+Right: Text with "Our Mission", "Our Team"
+
+Responsive using flex-direction: column for mobile
+
+Add hover animation to team member cards
+
+💡 Bonus: Use @media queries for screen resizing
+💡 Optional: Add favicon + better title in <head>

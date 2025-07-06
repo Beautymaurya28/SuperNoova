@@ -1,0 +1,12 @@
+Folder: /ai-ml/day1-python-core
+📌 Topic: Python Core: Loops, Functions, OOP
+🎯 Goal: Lock in strong Python foundations before touching NumPy
+
+🧪 Mini Project: CLI Library System
+
+add_book(), remove_book(), list_books() using class
+
+Use loops, dicts/lists, and basic file I/O (if comfy)
+
+📎 Push Python file with name library_system.py
+

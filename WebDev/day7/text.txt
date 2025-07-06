@@ -1,0 +1,19 @@
+ Goal: Add a working-looking Contact Form to your landing page!
+
+📁 Folder: /webdev/day7-contact-form
+
+Tasks:
+
+Add Name, Email, Message fields
+
+Use semantic <form>, <input>, <textarea> tags
+
+Style it clean with Flexbox
+
+Add hover/focus effects
+
+🧠 Bonus:
+
+Validate with simple JS alert on submission (optional)
+
+Push updated page to GitHub ✅

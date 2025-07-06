@@ -1,0 +1,4 @@
+date:7th july monday
+task:
+dsa-array,stack,queue
+

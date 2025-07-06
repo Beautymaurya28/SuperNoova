@@ -1,0 +1,7 @@
+#filehandling
+#list
+#dict
+#loop
+#Set 
+#tuple
+date: 4th july friday

@@ -1,0 +1,16 @@
+Folder: /webdev/day5-html-form-layout
+📌 Topic: Semantic HTML + Forms
+🎯 Goal: Understand layout best practices for real apps
+
+🛠 Mini Project: Contact Us Page
+
+Use <form>, <label>, <input>, <textarea>, <button>
+
+Add validation (required, minlength, etc.)
+
+Add semantic tags: <section>, <article>, <footer>
+
+Style with CSS: center form, mobile responsive
+
+💡 Bonus: Add mailto: functionality (basic version) 
+💡 Optional: Add submit animation with simple JS

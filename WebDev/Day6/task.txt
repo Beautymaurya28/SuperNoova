@@ -1,0 +1,17 @@
+Project: Continue your landing page
+📁 Folder: /webdev/day6-navbar-footer
+
+Tasks:
+
+Add sticky responsive navbar (hamburger menu for mobile)
+
+Build a clean footer section with links/socials
+
+Use Flexbox or CSS Grid only (No Tailwind yet)
+
+💡 Pro Tip:
+
+"Responsiveness = placement brownie points 🍪"
+
+✅ Push updated files to GitHub
+
